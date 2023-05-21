@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59642762439",
+    "project_id": "flutter-vehiculos-34686",
+    "storage_bucket": "flutter-vehiculos-34686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59642762439:android:b728e2f2cfefc3d8921ae2",
+        "android_client_info": {
+          "package_name": "com.example.p4_vh2549162018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59642762439-m57h89l6gn0bn9bfu66n5avnt2iinm6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0--DR_RhnuE2ckZ5mmw4-VK6_7GCLKJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59642762439-m57h89l6gn0bn9bfu66n5avnt2iinm6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
